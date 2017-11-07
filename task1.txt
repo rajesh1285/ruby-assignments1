@@ -1,0 +1,1 @@
+MS-DOS and Windows use a common text file format, with each line of text separated by a two-character combination: carriage return (CR) and line feed (LF). It is common for the last line of text not to be terminated with a CR-LF marker, and many text editors (including Notepad) do not automatically insert one on the last line.
